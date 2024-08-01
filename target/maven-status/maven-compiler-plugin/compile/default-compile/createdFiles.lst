@@ -1,0 +1,9 @@
+com/example/alphanoveassessment1/book/BookService.class
+com/example/alphanoveassessment1/book/BookRepository.class
+com/example/alphanoveassessment1/exception/ApiExceptionHandler.class
+com/example/alphanoveassessment1/book/BookController.class
+com/example/alphanoveassessment1/AlphanoveAssessment1Application.class
+com/example/alphanoveassessment1/book/Book.class
+com/example/alphanoveassessment1/exception/ApiException.class
+com/example/alphanoveassessment1/exception/ApiRequestException.class
+com/example/alphanoveassessment1/book/BookConfig.class
